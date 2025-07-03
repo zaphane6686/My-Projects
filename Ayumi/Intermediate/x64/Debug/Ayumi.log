@@ -1,0 +1,14 @@
+﻿  Display.cpp
+  Game.cpp
+  GraphicsEngine.cpp
+  RenderSystem.cpp
+  SwapChain.cpp
+C:\Personal project\Ayumi\DX3D\Source\DX3D\Graphics\RenderSystem.h(19,24): error C3646: 'getGraphicsResourceDesc': unknown override specifier
+  (compiling source file 'DX3D/Source/DX3D/Graphics/SwapChain.cpp')
+  
+C:\Personal project\Ayumi\DX3D\Source\DX3D\Graphics\RenderSystem.h(19,47): error C2059: syntax error: '('
+  (compiling source file 'DX3D/Source/DX3D/Graphics/SwapChain.cpp')
+  
+C:\Personal project\Ayumi\DX3D\Source\DX3D\Graphics\RenderSystem.h(19,64): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'DX3D/Source/DX3D/Graphics/SwapChain.cpp')
+  
